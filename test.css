@@ -1,0 +1,28 @@
+.nature{
+    width: 100%; 
+    height: 100vh;
+    background-image: url(./beauty-nature-background-vector-2479666.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+    
+}
+.qqq{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 400%;
+    border: 2px solid whitesmoke;
+    color: greenyellow;
+    text-shadow: 5px 5px peru;
+}
+.www{
+    color:black;
+}
+.eee{
+    text-align: center;
+    font-size: 600%;
+    color: darkorange;
+    text-shadow: 3px 3px greenyellow;
+}
